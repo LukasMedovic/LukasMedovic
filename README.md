@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/038f5452-a5ca-4ccb-b141-a09e9f0d4a68)# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Google Cybersecurity Profesional Analyst Certificate.<br>🌱 I’m currently learning Cybersecurity (languages - python, MySQL)<br>🦾 Currently studying computer science (I am in my 2nd year of study, enrolled in bachelor program)<br>
 
 
