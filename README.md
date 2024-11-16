@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Google Cybersecurity Profesional Analyst Certificate.<br>🌱 I’m currently learning Cybersecurity (languages - python, MySQL)<br>🦾 Currently studying computer science (I am in my 2nd year of study, enrolled in bachelor program)<br>
+🦾 Currently studying computer science (I am in my 2nd year of study, enrolled in bachelor program)<br>
 
 
 ## 🌐 Socials:
