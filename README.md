@@ -6,6 +6,5 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/lukasmedovic) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,js,html,css,bash,powershell,docker,git,linux,mysql,fastapi)](https://skillicons.dev)
-
+![My Skills](https://skillicons.dev/icons?i=python,c,cs,js,html,css,bash,powershell,docker,git,linux,mysql,fastapi)
 
